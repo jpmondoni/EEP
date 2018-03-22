@@ -1,4 +1,12 @@
-*.class
 *.exe
 *.~sql
 *.pyc
+
+# Java
+*.class
+*.jar
+*.ear
+*.war
+
+# Unwanted vs folder
+DataStructures/.vs/
